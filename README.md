@@ -11,9 +11,9 @@
 <!-- ═══════════════════════ PROFILE BADGES ═══════════════════════ -->
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sadman18&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/sadman18?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Belgium%20🇧🇪-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Location"/>
 </p>
@@ -54,12 +54,12 @@ print(me.greet())
 <div align="center">
 
 <!-- Row 1: Stats + Streak -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d4ff" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadman18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d4ff" alt="GitHub Stats"/>
 &nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sadman18&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats"/>
 
 <!-- Row 2: Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages"/>
 
 </div>
 
@@ -71,7 +71,7 @@ print(me.greet())
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sadman18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
 
 </div>
 
@@ -163,7 +163,7 @@ Data Security           ██████████████████�
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&area_color=00d4ff&hide_border=true&theme=react-dark" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadman18&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&area_color=00d4ff&hide_border=true&theme=react-dark" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -193,9 +193,9 @@ Data Security           ██████████████████�
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadman18&repo=https://github.com/sadman18/Heart-Disease-Classification&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/sadman18/https://github.com/sadman18/Heart-Disease-Classification)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadman18&repo=https://github.com/sadman18/SQL-data-warehouse-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/sadman18/https://github.com/sadman18/SQL-data-warehouse-project)
 
 </div>
 
@@ -207,11 +207,11 @@ Data Security           ██████████████████�
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sadman-mohammed/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sadmanmohammed18@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
