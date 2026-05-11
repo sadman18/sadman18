@@ -28,7 +28,8 @@
 
 python
 class SyedSadman:
-    def __init__(self):
+  ```
+        def __init__(self):
         self.name        = "Syed Sadman Mohammed"
         self.degree      = "Data Science & Engineering"
         self.university  = "Thomas More Mechelen, Belgium 🇧🇪"
@@ -37,8 +38,10 @@ class SyedSadman:
         self.languages   = ["Python", "SQL", "C#"]
         self.currently   = "Building robust, secure data pipelines , Making insiteful data insights & dashboards, Creating efficient data models"
         self.goal        = "Turning messy data into organized pipeline with powerful insights"
+    
     def greet(self):
         return "Security-first. Insight-driven. Always learning. 🚀"
+```
 
 me = SyedSadman()
 print(me.greet())
