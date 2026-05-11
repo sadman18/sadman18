@@ -192,9 +192,9 @@ Cloud Platforms         ████████████████░░�
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadman18&repo=(https://github.com/sadman18/Heart-Disease-Classification)&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/sadman18/https://github.com/sadman18/Heart-Disease-Classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadman18&repo=Heart-Disease-Classification)&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/sadman18/https://github.com/sadman18/Heart-Disease-Classification)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadman18&repo=(https://github.com/sadman18/SQL-data-warehouse-project)&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/sadman18/https://github.com/sadman18/SQL-data-warehouse-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadman18&repo=SQL-data-warehouse-project)&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/sadman18/https://github.com/sadman18/SQL-data-warehouse-project)
 
 </div>
 
