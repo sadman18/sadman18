@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Syed%20Sadman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Security%20%7C%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Syed%20Sadman%20Mohammed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Security%20%7C%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
@@ -29,7 +29,7 @@
 ```python
 class SyedSadman:
     def __init__(self):
-        self.name        = "Syed Sadman"
+        self.name        = "Syed Sadman Mohammed"
         self.degree      = "Data Science Protection & Security"
         self.university  = "Thomas More Mechelen, Belgium 🇧🇪"
         self.roles       = ["Data Engineer", "Data Analyst", "Data Scientist"]
