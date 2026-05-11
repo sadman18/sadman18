@@ -204,7 +204,7 @@ Cloud Platforms         ████████████████░░�
 
 <div align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sadman-mohammed/">
+<a href="https://www.linkedin.com/in/sadman-mohammed/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -217,8 +217,6 @@ Cloud Platforms         ████████████████░░�
 </a>
 
 <br/><br/>
-
-> *"Data without security is a liability. Data with security is an asset."* 🔐
 
 </div>
 
