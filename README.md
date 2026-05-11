@@ -53,30 +53,18 @@ print(me.greet())
 
 <div align="center">
 
-## 📊 GitHub Stats
+<!-- Row 1: Stats + Streak -->
+<!-- Row 1: Stats  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadman18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d4ff" alt="GitHub Stats"/>
 
-<table>
-<tr>
-<td>
+&nbsp;
+-->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sadman18&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadman18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
+<!-- Row 2: Top Languages 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages"/>
+-->
 
-</td>
-<td>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=sadman18&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 Top Languages
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
-</p>
 
 </div>
 
