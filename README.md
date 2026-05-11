@@ -26,26 +26,24 @@
 
 ## 🧬 `whoami`
 
-python
+```python
 class SyedSadman:
-  ```
-        def __init__(self):
-        self.name        = "Syed Sadman Mohammed"
-        self.degree      = "Data Science & Engineering"
+    def __init__(self):
+        self.name        = "Syed Sadman"
+        self.degree      = "Data Science Protection & Security"
         self.university  = "Thomas More Mechelen, Belgium 🇧🇪"
         self.roles       = ["Data Engineer", "Data Analyst", "Data Scientist"]
-        self.specialties = ["GDPR Compliance", "Data analysis", "Data pipelines"]
-        self.languages   = ["Python", "SQL", "C#"]
-        self.currently   = "Building robust, secure data pipelines , Making insiteful data insights & dashboards, Creating efficient data models"
-        self.goal        = "Turning messy data into organized pipeline with powerful insights"
-    
+        self.specialties = ["GDPR Compliance", "Data Governance", "Data Security"]
+        self.languages   = ["Python", "SQL", "R", "Bash"]
+        self.currently   = "Building robust, secure data pipelines"
+        self.goal        = "Turning protected data into powerful insights"
+
     def greet(self):
         return "Security-first. Insight-driven. Always learning. 🚀"
 
-```
 me = SyedSadman()
 print(me.greet())
-
+```
 
 ---
 
