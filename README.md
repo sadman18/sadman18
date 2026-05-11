@@ -26,7 +26,7 @@
 
 ## 🧬 `whoami`
 
-```python
+python
 class SyedSadman:
     def __init__(self):
         self.name        = "Syed Sadman Mohammed"
@@ -37,13 +37,12 @@ class SyedSadman:
         self.languages   = ["Python", "SQL", "C#"]
         self.currently   = "Building robust, secure data pipelines , Making insiteful data insights & dashboards, Creating efficient data models"
         self.goal        = "Turning messy data into organized pipeline with powerful insights"
-
     def greet(self):
         return "Security-first. Insight-driven. Always learning. 🚀"
 
 me = SyedSadman()
 print(me.greet())
-```
+
 
 ---
 
