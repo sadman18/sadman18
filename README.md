@@ -30,13 +30,13 @@
 class SyedSadman:
     def __init__(self):
         self.name        = "Syed Sadman Mohammed"
-        self.degree      = "Data Science Protection & Security"
+        self.degree      = "Data Science & Engineering"
         self.university  = "Thomas More Mechelen, Belgium 🇧🇪"
         self.roles       = ["Data Engineer", "Data Analyst", "Data Scientist"]
-        self.specialties = ["GDPR Compliance", "Data Governance", "Data Security"]
-        self.languages   = ["Python", "SQL", "R", "Bash"]
-        self.currently   = "Building robust, secure data pipelines"
-        self.goal        = "Turning protected data into powerful insights"
+        self.specialties = ["GDPR Compliance", "Data analysis", "Data pipelines"]
+        self.languages   = ["Python", "SQL", "C#"]
+        self.currently   = "Building robust, secure data pipelines , Making insiteful data insights & dashboards, Creating efficient data models"
+        self.goal        = "Turning messy data into organized pipeline with powerful insights"
 
     def greet(self):
         return "Security-first. Insight-driven. Always learning. 🚀"
@@ -145,14 +145,13 @@ print(me.greet())
 ## 📈 Skill Proficiency
 
 ```
-Data Engineering        ████████████████████ ████░  90%
-SQL & Databases         ███████████████████████░░░  88%
+SQL & Databases         ████████████████████ ████░  90%
+Data Visualiztion       ███████████████████████░░░  88%
 Python                  ██████████████████████░░░░  85%
-Data Visualization      █████████████████████░░░░░  82%
+Data Engineering        █████████████████████░░░░░  82%
 GDPR & Data Governance  ████████████████████████░░  95%
-Machine Learning        ████████████████░░░░░░░░░░  65%
-Cloud Platforms (AWS)   ████████████████░░░░░░░░░░  63%
-Data Security           █████████████████████████░  98%
+Machine Learning        ███████████████████████░░░  85%
+Cloud Platforms         ████████████████░░░░░░░░░░  63%
 ```
 
 ---
@@ -177,11 +176,11 @@ Data Security           ██████████████████�
 
 | 🎯 Focus Area | 📚 Topics | 📊 Progress |
 |:---:|:---:|:---:|
-| **Data Engineering** | Spark, Kafka, Airflow, dbt | 🟩🟩🟩🟩🟨 85% |
-| **Cloud & DevOps** | AWS, Azure, Docker, CI/CD | 🟩🟩🟩🟨⬜ 65% |
 | **Advanced SQL** | Window Functions, CTEs, RFM | 🟩🟩🟩🟩⬜ 80% |
+| **Data Engineering** | Spark, Kafka, Airflow, dbt | 🟩🟩🟩🟩🟨 85% |
+| **Cloud & DevOps** | AWS, Azure, Docker, CI/CD | 🟩🟩🟩🟨⬜ 73% |
+| **Data Visualiztion** | Excel, PowerBI, Tableau, | 🟩🟩🟩🟨⬜ 68% |
 | **Data Science** | ML Pipelines, Feature Engineering | 🟩🟩🟩⬜⬜ 60% |
-| **Security** | Zero Trust, Privacy by Design | 🟩🟩🟩🟩🟩 95% |
 
 </div>
 
@@ -193,11 +192,9 @@ Data Security           ██████████████████�
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadman18&repo=sadman18/
-Heart-Disease-Classification&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/sadman18/https://github.com/sadman18/Heart-Disease-Classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadman18&repo=(https://github.com/sadman18/Heart-Disease-Classification)&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/sadman18/https://github.com/sadman18/Heart-Disease-Classification)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadman18&repo=sadman18/
-SQL-data-warehouse-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/sadman18/https://github.com/sadman18/SQL-data-warehouse-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadman18&repo=(https://github.com/sadman18/SQL-data-warehouse-project)&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/sadman18/https://github.com/sadman18/SQL-data-warehouse-project)
 
 </div>
 
